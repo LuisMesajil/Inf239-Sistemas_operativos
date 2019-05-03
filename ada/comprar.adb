@@ -35,5 +35,5 @@ procedure Principal is
 	-- Cuerpo Tarea Principal
 	
 	begin
-		return ;
+		null ;
 	end Principal;
