@@ -5,3 +5,9 @@ fumadores: tareas entry, bucle for, random number, objeto protegido, case
 imprimir_primos: bucle while and for
 solcontador: tareas, bucle while, objeto protegido
 Tareas: tareas, bucle for
+
+
+
+gnatmake ./prog.adb
+./prog
+
