@@ -11,3 +11,7 @@ Tareas: tareas, bucle for
 gnatmake ./prog.adb
 ./prog
 
+
+Concurrencia en Ada
+https://www.dit.upm.es/~jpuente/strl/transparencias/02p_Tareas_Ada.pdf
+
